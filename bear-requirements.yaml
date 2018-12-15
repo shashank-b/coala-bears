@@ -196,7 +196,7 @@ pip_requirements:
   pyflakes:
     version: ~=2.0.0
   pylint:
-    version: ~=2.1.1
+    version: ~=2.0.0
   pyroma:
     version: ~=2.2.0
   pyyaml:
